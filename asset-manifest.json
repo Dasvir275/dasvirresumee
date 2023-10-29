@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dasvirresume/static/css/main.49b1188f.css",
+    "main.js": "/dasvirresume/static/js/main.f1096194.js",
+    "static/media/me2.png": "/dasvirresume/static/media/me2.265361e74335e44911fe.png",
+    "static/media/me.png": "/dasvirresume/static/media/me.43aabb49bf12d36a54ca.png",
+    "static/media/award.png": "/dasvirresume/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/dasvirresume/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/dasvirresume/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/dasvirresume/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/dasvirresume/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/dasvirresume/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/dasvirresume/index.html",
+    "main.49b1188f.css.map": "/dasvirresume/static/css/main.49b1188f.css.map",
+    "main.f1096194.js.map": "/dasvirresume/static/js/main.f1096194.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b1188f.css",
+    "static/js/main.f1096194.js"
+  ]
+}
